@@ -75,7 +75,7 @@
     "solidity-coverage": "github:taikoxyz/solidity-coverage",
     "solidity-docgen": "0.6.0-beta.35",
     "ts-node": "^10.9.1",
-    "typechain": "^5.2.0",
+    "typechain": "^8.3.2",
     "typescript": "^4.9.5"
   }
 }
